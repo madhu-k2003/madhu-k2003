@@ -6,7 +6,7 @@
 
 ## 🔧 Projects
 - 📇 Address Book in C (file handling, structs, modular design)
-- 
+  
 ## 🚀 What I'm working on
 - Embedded C Programming
 - Real-time project development
